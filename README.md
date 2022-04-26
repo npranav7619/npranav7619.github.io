@@ -3,43 +3,9 @@
 ### Markdown
 
 <div class="collapse navbar-collapse" id="base-navbars">
-      <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/challenges">
-            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Challenges">
-              <i class="fas fa-flag d-none d-md-block d-lg-none"></i>
-            </span>
-            <span class="d-sm-block d-md-none d-lg-block">
-              <i class="fas fa-flag pr-1"></i>Challenges
-            </span>
-          </a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="/scoreboard">
-            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Scoreboard">
-              <i class="fas fa-chart-line d-none d-md-block d-lg-none"></i>
-            </span>
-            <span class="d-sm-block d-md-none d-lg-block">
-              <i class="fas fa-chart-line pr-1"></i>Scoreboard
-            </span>
-          </a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="/workspace">
-            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Workspace">
-              <i class="fas fa-terminal d-none d-md-block d-lg-none"></i>
-            </span>
-            <span class="d-sm-block d-md-none d-lg-block">
-              <i class="fas fa-terminal pr-1"></i>Workspace
-            </span>
-          </a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="https://pwn.college/discord" target="_blank">
-            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Chat">
+          <a class="nav-link" href="https://npranav7619.github.io/CTF_Writeups" target="_blank">
+            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="CTF_Writeups">
               <i class="fas fa-comments d-none d-md-block d-lg-none"></i>
             </span>
             <span class="d-sm-block d-md-none d-lg-block">
@@ -47,35 +13,6 @@
             </span>
           </a>
         </li>
-      </ul>
-
-      <hr class="d-sm-flex d-md-flex d-lg-none">
-
-      <ul class="navbar-nav ml-md-auto d-block d-sm-flex d-md-flex">
-        
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/register">
-            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Register">
-              <i class="fas fa-user-plus d-none d-md-block d-lg-none"></i>
-            </span>
-            <span class="d-sm-block d-md-none d-lg-block">
-              <i class="fas fa-user-plus pr-1"></i>Register
-            </span>
-          </a>
-        </li>
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/login">
-            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Login">
-              <i class="fas fa-sign-in-alt d-none d-md-block d-lg-none"></i>
-            </span>
-            <span class="d-sm-block d-md-none d-lg-block">
-              <i class="fas fa-sign-in-alt pr-1"></i>Login
-            </span>
-          </a>
-        </li>
-        
       </ul>
     </div>
 
