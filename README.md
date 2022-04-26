@@ -1,4 +1,4 @@
-# Welcome to npranav7619's Blog
+# Welcome to Neouchiha's Blog
 
 ### Markdown
 
