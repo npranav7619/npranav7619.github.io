@@ -1,0 +1,4 @@
+baseURL = 'https://npranav7619.github.io/coffee-blog/first-post'
+languageCode = 'en-us'
+title = 'Filtered-Galaxy-Brews'
+theme = 'papercss'
