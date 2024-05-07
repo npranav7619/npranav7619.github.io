@@ -1,4 +1,4 @@
 baseURL = 'http://npranav7619.github.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'npranav7619'
 theme = 'hugo-xterm-main'
