@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>npranav7619.github.io on My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content in npranav7619.github.io on My New Hugo Site</description>
+    <title>npranav7619.github.io on npranav7619</title>
+    <link>http://npranav7619.github.org/</link>
+    <description>Recent content in npranav7619.github.io on npranav7619</description>
     <generator>Hugo -- gohugo.io</generator>
       <language>en-us</language>
-      <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+      <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://npranav7619.github.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/about</title>
-      <link>http://example.org/about/</link>
+      <link>http://npranav7619.github.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>http://example.org/about/</guid>
+      <guid>http://npranav7619.github.org/about/</guid>
       <description>N.Pranav Krishna Undergrad at BITS Pilani, fueled by coffee and a knack for finding loopholes (not just in code). On a quest to absorb every byte of knowledge, especially in Cybersecurity, where I&amp;rsquo;m known for my talent in finding the &amp;lsquo;unGoogleable&amp;rsquo;. Fuzzing, IoT vulnerabilities, and conquering Capture The Flag competitions are my bread and butter—I&amp;rsquo;ve even clinched first place in a couple! But beyond the cyber fray, you&amp;rsquo;ll find me lost in the epic saga of Star Wars, fuelled by a perpetual stream of coffee.</description>
       <content>
 &lt;h2 id=&#34;npranav-krishna&#34;&gt;
@@ -20,14 +20,31 @@
   &lt;a href=&#34;#npranav-krishna&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;Undergrad at BITS Pilani, fueled by coffee and a knack for finding loopholes (not just in code). On a quest to absorb every byte of knowledge, especially in Cybersecurity, where I&amp;rsquo;m known for my talent in finding the &amp;lsquo;unGoogleable&amp;rsquo;. Fuzzing, IoT vulnerabilities, and conquering Capture The Flag competitions are my bread and butter—I&amp;rsquo;ve even clinched first place in a couple! But beyond the cyber fray, you&amp;rsquo;ll find me lost in the epic saga of Star Wars, fuelled by a perpetual stream of coffee. With a background in electronics and instrumentation, I&amp;rsquo;ve seamlessly transitioned into my true passion: network security. Always on the lookout for new research projects, I thrive on unraveling its complexities. And let&amp;rsquo;s not forget my love affair with peanut butter—perfect for those late-night coding sessions. From crafting Twitter clones to engineering Python libraries for PLCs, I&amp;rsquo;ve tinkered with it all. So whether we&amp;rsquo;re swapping cyber tales, dissecting Star Wars lore, or sharing a virtual cup of coffee, I&amp;rsquo;m thrilled to have you join me on this digital adventure!&lt;/p&gt;
+
+&lt;h2 id=&#34;interests&#34;&gt;
+  Interests
+  &lt;a href=&#34;#interests&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Network Security&lt;/li&gt;
+&lt;li&gt;Internet of Things&lt;/li&gt;
+&lt;li&gt;Fuzzing&lt;/li&gt;
+&lt;li&gt;CPS Security&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact&#34;&gt;
+  Contact
+  &lt;a href=&#34;#contact&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;📧  &lt;a href=&#34;mailto:npranav7619@gmail.com&#34;&gt;npranav7619@gmail.com&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     <item>
       <title>/CV</title>
-      <link>http://example.org/cv/</link>
+      <link>http://npranav7619.github.org/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>http://example.org/cv/</guid>
+      <guid>http://npranav7619.github.org/cv/</guid>
       <description>Highly motivated undergraduate at BITS Pilani with a keen interest in Cyber Security and Penetration Testing. Demonstrated ability to master new technologies coupled with strong interpersonal skills. Eager to contribute knowledge and enthusiasm to a dynamic team in the field of cybersecurity.
 Experience Indian Institute of Technology Madras 2024 Research Intern Chennai, India Technologies: Python, Cryptography
 MEL System and Services Chennai, India 2023 IoT Intern Chennai, India Designed and implemented a Python library for streamlined communication with Programmable Logic Controllers (PLCs).</description>
@@ -193,13 +210,13 @@ MEL System and Services Chennai, India 2023 IoT Intern Chennai, India Designed a
     </item>
     <item>
       <title>/posts</title>
-      <link>http://example.org/posts/</link>
+      <link>http://npranav7619.github.org/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>http://example.org/posts/</guid>
+      <guid>http://npranav7619.github.org/posts/</guid>
       <description>
 Yes, I was bored My_DWM_Experience I share my experience of using suckless&amp;rsquo;s window manager Networking_Protocol As part of SOS, we had to organize a workshop on networking protocols geogussr but chennai I was not allowed outside and too broke to use gmaps api Cotopaxi-guide cotopaxi is a tool for security testing of IoT devices using specific network IoT protocols Coffee Blog Twilight Tales of Caffeine Some CTF Writeups Digital Defenders 2023 CSACTF OvertheWire Bandit OvertheWire Natas PicoCTF Burp Suite [TryHackMe] Tr0ll[VulnHub] prometeoCTF Web Hacking Fundamentals [TryHackMe] Introduction to Web Hacking [TryHackMe] </description>
-      <content>&lt;p&gt;&lt;img src=&#34;http://example.org/bulb.gif&#34; alt=&#34;Alt Text&#34;&gt;&lt;/p&gt;
+      <content>&lt;p&gt;&lt;img src=&#34;http://npranav7619.github.org/bulb.gif&#34; alt=&#34;Alt Text&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;yes-i-was-bored&#34;&gt;
   Yes, I was bored

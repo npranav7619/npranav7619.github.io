@@ -101,5 +101,3 @@ Accomplishments
 * bi0s inCTF (Top 15 teams)
 * VU CTF (Top 50 Teams at international level) 
 
-[1]: https://manid2.github.io/hugo-xterm/
-[2]: https://manid2.gitlab.io/
