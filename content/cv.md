@@ -53,7 +53,7 @@ Projects
 
 * Conduct a comprehensive security assessment of Internet of Things (IoT) devices employing sophisticated fuzzing methodologies. Utilize cutting-edge fuzzing frameworks to meticulously scrutinize IoT device firmware, communication protocols, and web interfaces, pinpointing elusive vulnerabilities for enhanced threat mitigation.
 
-> [IoTFuzzSentry: Hunting Bugs In The IoT Wilderness In Operational Phase Using Payload Fuzzing](https://npranav7619.github.io)
+> [IoTFuzzSentry: Hunting Bugs In The IoT Wilderness In Operational Phase Using Payload Fuzzing](https://dl.acm.org/doi/10.1145/3626232.3658642)
 
 {{< cv/experience
     name="Development of Novel Messaging Standard"
@@ -88,7 +88,7 @@ Education
 Technical Skills
 ----------------
 
-Languages: C, C++, Python
+Languages: C, C++, Python, Java, Bash
 
 Tools: Wireshark, Burpsuite, metasploit, Git, Docker, GDB, Scapy 
 
