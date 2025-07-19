@@ -1,0 +1,14 @@
+<header>
+  <div id="brand">
+      <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Title }}</a>
+  </div>
+  <nav>
+    {{ with .Site.Menus.main }}
+      {{ range $index, $value := . }}
+        {{ if $index }} | {{ end }}
+        <a href="{{ .URL }}"><b>{{ .Name }}</b></a>
+      {{ end }}
+    {{ end }}
+  </nav>
+  <hr />
+</header>

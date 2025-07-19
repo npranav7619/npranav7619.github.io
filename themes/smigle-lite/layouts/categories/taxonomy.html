@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <main id="categories">
+    {{ with .Title }}<h1>{{ "Category: " }}{{ . }}</h1>{{ end }}
+    {{ .Content }}
+    {{ partial "postsByDate.html" . }}
+  </main>
+{{ end }}

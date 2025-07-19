@@ -1,0 +1,15 @@
+{{ range .RegularPagesRecursive.GroupByDate "2006" }}
+  <h3>{{ .Key }}</h3>
+  <ul id="postsByDate">
+    {{ range .Pages }}
+      <li>
+        <div class="date">
+          {{ .Date.Format (default "2 Jan" .Site.Params.abbrDateFmt) }}
+        </div>
+        <div class="title">
+          <a href="{{ .RelPermalink }}">{{.Title }}</a>
+        </div>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

@@ -1,0 +1,6 @@
+baseURL = 'https://npranav7619.github.io/'
+languageCode = 'en-us'
+title = 'npranav7619.github.io'
+subtitle = 'no'
+description = 'hello there'
+theme = 'smigle'

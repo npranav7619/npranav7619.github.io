@@ -1,0 +1,29 @@
+<footer>
+  <hr />
+  {{ if .Site.Params.social }}
+    <p id="social">
+      Find me around the web:
+      <br />
+      {{ range $i, $e := .Site.Params.social }}
+        {{ if $i }} | {{ end }}
+        <a href="{{ .url }}" target="_blank">{{ .name }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+  <p class="copyright">
+    Copyright © {{ now.Format "2006"}}
+    <a href="{{ .Site.BaseURL }}"><strong>{{ default "Blog Author" .Site.Params.Author }}</strong></a>.
+    {{ if .Site.Params.license }}
+    This work is licensed under the
+    <a href="{{ .Site.Params.license.url}}" target="_blank">{{ .Site.Params.license.name }}</a> license.
+    {{ end }}
+  </p>
+  <p class="builtWith">
+    Built with
+    <a href="http://www.gohugo.io/">Hugo</a>,
+    using a <a href="https://github.com/joe-mccarthy/smigle-lite">modified version</a> of the theme
+    <a href="https://gitlab.com/ian-s-mcb/smigle-hugo-theme">smigle</a>,
+    which was influenced by the theme
+    <a href="https://github.com/colorchestra/smol">smol</a>.
+  </p>
+</footer>

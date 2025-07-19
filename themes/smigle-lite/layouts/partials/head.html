@@ -1,0 +1,27 @@
+<head>
+  <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<style type=text/css>body{font-family:monospace;}</style>
+
+  
+  <meta name="description" content="{{ if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.Description }}{{ end }}" /> 
+  <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", "}}{{ end }}" />
+  <meta name="categories" content="{{ with .Params.categories }}{{ delimit . ", "}}{{ end }}" />
+
+  {{ if (eq .Title .Site.Title) }}
+    {{ with $title := .Title }}
+      <title>{{ . }}</title>
+    {{ end }}
+  {{ else }}
+    {{ with $title := printf "%s | %s" .Title .Site.Title }}
+      <title>{{ . }}</title>
+    {{ end }}
+  {{ end }}
+  <link rel="stylesheet" href="{{ "css/smigle-lite.css" | relURL }}"/>
+  {{ range .Site.Params.customStylesheets }}
+    <link rel="stylesheet" href="{{ . | relURL }}"/>
+  {{ end }}
+  <link rel="icon" href="data:image/png;base64,">
+  <meta name="theme-color" content="#ffffff">
+</head>
