@@ -42,3 +42,7 @@ Using Payload Fuzzing.
 
 - [*X*](https://x.com/imkrishnapranav)
 - [github](https://github.com/npranav7619)
+
+### other-links
+- [posts](https://npranav7619.github.io/posts/)
+- [resume](https://npranav7619.github.io/about/)

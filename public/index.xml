@@ -4,22 +4,25 @@
     <title>Pranav Krishna on npranav7619.github.io</title>
     <link>https://npranav7619.github.io/</link>
     <description>Recent content in Pranav Krishna on npranav7619.github.io</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://npranav7619.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://npranav7619.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CV</title>
+      <title>About</title>
       <link>https://npranav7619.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://npranav7619.github.io/about/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1xZwXoDgw_IxhSMyOAdG-2FOEqyHSRx35/view?usp=sharing&#34;&gt;link to resume&lt;/a&gt;&lt;/p&gt;</description>
+      <description>link to resume</description>
     </item>
+    
     <item>
-      <title>Pranav Krishna</title>
-      <link>https://npranav7619.github.io/posts/projects/</link>
+      <title>posts</title>
+      <link>https://npranav7619.github.io/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://npranav7619.github.io/posts/projects/</guid>
-      <description>&lt;h4 id=&#34;coming-soon-&#34;&gt;coming-soon :)&lt;/h4&gt;</description>
+      
+      <guid>https://npranav7619.github.io/posts/</guid>
+      <description>coming-soon :) </description>
     </item>
+    
   </channel>
 </rss>

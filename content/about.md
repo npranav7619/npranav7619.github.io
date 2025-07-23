@@ -1,6 +1,6 @@
 ---
-title: CV
-layout: default
+title: About
+layout: single
 ---
 
-[link to resume](https://drive.google.com/file/d/1xZwXoDgw_IxhSMyOAdG-2FOEqyHSRx35/view?usp=sharing)
+[link to resume](https://drive.google.com/drive/folders/1xtnrLX9fcdDMPxSySnRY8RAWPflX8jZ3?usp=sharing)
