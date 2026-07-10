@@ -27,6 +27,7 @@ resulting in *CVE-2024-41623*
 ### papers
 
 - microSCALE: Static Analysis for Microarchitectural Side-channel Leakage Evaluation
+
     *USENIX Security '26*
 
 - IoTFuzzSentry: Hunting Bugs In The IoT Wilderness In Operational Phase
