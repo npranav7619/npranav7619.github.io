@@ -16,17 +16,18 @@ subtitle: :)
 
 ### projects
 
-- **sakuraXpy**
-facilitated a secure communication interface between host and reconfigurable hardware targets, enabling controlled side-channel acquisition of sensitive cryptographic operations.
+- **microSCALE**
+a framework that statically analyzes processor microarchitectures to identify
+potential side-channel leakage paths before hardware implementation.
 
 - **pyfuzzsec**
 python based tool leveraging atheris library which identifyes potential vulnerabilities in IoT devices.
 resulting in *CVE-2024-41623*
 
-- **pyPLCC**
-Developed python library for efficient communication with PLCs, enhancing edge device capabilities in industrial automation
-
 ### papers
+
+- microSCALE: Static Analysis for Microarchitectural Side-channel Leakage Evaluation
+    *USENIX Security '26*
 
 - IoTFuzzSentry: Hunting Bugs In The IoT Wilderness In Operational Phase
 Using Payload Fuzzing.
